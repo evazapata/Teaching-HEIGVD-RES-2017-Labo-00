@@ -3,10 +3,11 @@ package ch.heigvd.res.lab00;
 import org.junit.Assert;
 import static org.junit.Assert.assertNotNull;
 import org.junit.Test;
+import ch.heigvd.res.lab00.*;
 
  // @author Denise Gemesio
 
-public class TrumpetTest {
+public class BassoonTest {
   
   @Test
   public void aBassoonShouldMakeBassoon() {
